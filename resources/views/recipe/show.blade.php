@@ -5,7 +5,7 @@
 @extends('common.mainlayout')
 
 @section('content')
-               
+             <!-- COMENTARIO RANDOM -->  
         <div class="page-title wb">
             <div class="container">
                 <div class="row">
